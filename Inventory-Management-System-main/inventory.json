@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "TestProduct",
+            "category": "Electronics",
+            "price": 999.0,
+            "quantity": 50,
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "name": "car",
+            "category": "car",
+            "price": 100000.0,
+            "quantity": 50,
+            "status": "Active"
+        }
+    ],
+    "next_id": 3
+}
